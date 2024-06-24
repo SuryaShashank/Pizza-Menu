@@ -1,2 +1,0 @@
-# Pizza-Menu
-Learning React
